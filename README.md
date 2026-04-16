@@ -47,5 +47,5 @@
 ## Installation & Usage
 
 ### プレイ方法
-1. 本リポジトリの [Releases](リリースページのURL) から `.apk` ファイル（Android用）をダウンロードしてください。
+1. 本リポジトリの [Releases](https://github.com/JunnosukeHirayama/RunGame/releases/tag/v1.0.0) から `.apk` ファイル（Android用）をダウンロードしてください。
 2. Android端末にインストールするとすぐにプレイ可能です。
